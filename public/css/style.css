@@ -1,0 +1,18 @@
+body{
+  background-color: black;
+  font-family: 'Metal Mania', cursive;
+  color: darkred;
+  text-align: center;
+
+}
+a{
+  color: darkred;
+}
+img{
+  cursor: pointer;
+}
+#message{
+  background-image: url('/images/maxresdefault.jpg');
+  height:920px;
+  width: 1250px;
+}
